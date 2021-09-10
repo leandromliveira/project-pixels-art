@@ -1,0 +1,66 @@
+* {
+  border: 0;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  white-space: nowrap;
+  background-image: url("/images/background.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: aliceblue;
+}
+
+.color {
+  border: 1px solid white;
+  display: inline-block;
+  margin-right: 10px;
+  margin-top: 10px;
+  width: 40px;
+  height: 40px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+#board-size {
+  width: 35px;
+}
+
+#pixel-board div div {
+  border: 1px solid black;
+  display: inline-block;
+  background-color: aliceblue;
+  width: 20px;
+  height: 20px;
+}
+
+#pixel-board {
+  font-size: 0;
+}
+
+#new-color {
+  width: 180px;
+  margin-bottom: 5px;
+  background-color: orange;
+}
+
+#clear-board {
+  margin-left: 10px;
+  margin-bottom: 20px;
+  background-color: pink;
+}
+
+#generate-board {
+  background-color: green;
+}
+
+input,
+button {
+  border: 1px solid black;
+}
+
+button {
+  border-radius: 25%;
+}
