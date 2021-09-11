@@ -5,4 +5,3 @@
 <h2> Avaliação do projeto: <h2>
 
 <img src="/images/nota-projeto.png" alt="avaliação do projeto" />
-<a href="https://github.com/tryber/sd-015-b-project-pixels-art/pull/10" target="_blank"></a>
