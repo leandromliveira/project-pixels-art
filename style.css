@@ -11,11 +11,11 @@ body {
   background-image: url("/images/background.png");
   background-size: cover;
   background-repeat: no-repeat;
-  color: aliceblue;
+  color: #1f1f1f;
 }
 
 .color {
-  border: 1px solid white;
+  border: 1px solid #1f1f1f;
   display: inline-block;
   margin-right: 10px;
   margin-top: 10px;
