@@ -8,7 +8,7 @@ body {
   flex-direction: column;
   align-items: center;
   white-space: nowrap;
-  background-image: url("project-pixels-art/images/background.png");
+  background-image: url("./images/background.png");
   background-size: cover;
   background-repeat: no-repeat;
   color: aliceblue;
